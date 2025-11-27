@@ -13,3 +13,5 @@ target/
 
 # Ignore Visual Studio Code project files.
 .vscode/
+
+.DS_Store
